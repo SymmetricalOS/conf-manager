@@ -1,0 +1,4 @@
+
+
+haxe build.hxml
+mv bin/Main bin/conf-manager
